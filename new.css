@@ -1,0 +1,19 @@
+body {
+  background-color: maroon;
+}
+
+img {
+
+  float: right;
+  width: 300px
+
+}
+
+.Second-Part{
+  border: solid;
+  border-color: black;
+  border-radius: 9px;
+  color: white;
+  font-family: cursive;
+  background-color: dimgrey;
+}
