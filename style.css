@@ -1,0 +1,19 @@
+body {
+  background-color: darkgrey;
+}
+
+img {
+  
+  float: right;
+  width: 300px
+
+}
+.First-sentence{
+  border: solid;
+  border-color: grey;
+  border-radius: 9px;
+  color: white;
+  font-family: cursive;
+  background-color: black;
+    
+}
